@@ -1,0 +1,149 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "teacher": [
+    {
+      "firstName": "yuvraj",
+      "lastName": "khanna",
+      "email": "abc@gmail.com",
+      "dob": "2023-07-03T18:30:00.000Z",
+      "salary": "12000",
+      "department": "Cse",
+      "id": 5
+    },
+    {
+      "firstName": "yuvraj",
+      "lastName": "khanna",
+      "email": "adsf",
+      "dob": "2023-07-02T18:30:00.000Z",
+      "salary": "12",
+      "department": "Cse",
+      "id": 6
+    },
+    {
+      "firstName": "Yuvraj",
+      "lastName": "Khanna",
+      "email": "ac@gmail.com",
+      "dob": "2023-07-20T18:30:00.000Z",
+      "salary": "23444",
+      "department": "IT",
+      "id": 7
+    }
+  ],
+  "student": [
+    {
+      "firstName": "yuvraj",
+      "lastName": "khanna",
+      "email": "adsf",
+      "dob": "2023-07-02T18:30:00.000Z",
+      "salary": "12",
+      "department": "Cse",
+      "id": 6
+    },
+    {
+      "firstName": "Vishal",
+      "lastName": "Tomar",
+      "email": "ngncv",
+      "dob": "2023-07-20T18:30:00.000Z",
+      "salary": "25420",
+      "department": "gdbhb ",
+      "id": 8
+    },
+    {
+      "firstName": "Yuvraj",
+      "lastName": "Khanna",
+      "email": "abc@gmail.com",
+      "dob": "2023-07-21T18:30:00.000Z",
+      "salary": "67566",
+      "department": "IT",
+      "id": 9
+    }
+  ],
+  "notice": [
+    {
+      "title": "",
+      "content": "",
+      "id": 1
+    },
+    {
+      "title": "",
+      "content": "",
+      "id": 2
+    },
+    {
+      "title": "",
+      "content": "",
+      "id": 3
+    },
+    {
+      "title": "",
+      "content": "",
+      "id": 4
+    },
+    {
+      "title": "fa",
+      "content": "sdaf",
+      "id": 5
+    },
+    {
+      "title": "fds",
+      "content": "fasdasdf",
+      "id": 6
+    },
+    {
+      "title": "cxz",
+      "content": "cxvcz",
+      "id": 7
+    },
+    {
+      "title": "asfdjkl;fjd;lasd",
+      "content": "cxvczasdfasdkjfljasklfjdsa;lk",
+      "id": 8
+    },
+    {
+      "title": "bcnx",
+      "content": "ngcncf",
+      "id": 9
+    },
+    {
+      "title": "bcnx",
+      "content": "ngcncf",
+      "id": 10
+    },
+    {
+      "title": "bcnx",
+      "content": "ngcncf",
+      "id": 11
+    },
+    {
+      "title": "zfc",
+      "content": "vfdf",
+      "id": 12
+    },
+    {
+      "title": "dsfaasfd",
+      "content": "afsda",
+      "id": 13
+    },
+    {
+      "title": "this is test",
+      "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+      "id": 14
+    }
+  ]
+}

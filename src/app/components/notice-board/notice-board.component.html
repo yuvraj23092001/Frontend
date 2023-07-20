@@ -1,0 +1,10 @@
+<div class="noticeWrapper">
+    <div *ngFor="let notice of notices; let i = index" class="costum" >
+      <mat-card  (click)="openNoticeDialog(notice)">
+        <mat-card-title class="notice_title">{{ notice.title }}</mat-card-title>
+        <mat-card-content>{{ notice.content }}</mat-card-content>
+      </mat-card>
+      <!-- {{notice.title}}
+      {{notices}} -->
+    </div>
+</div>
